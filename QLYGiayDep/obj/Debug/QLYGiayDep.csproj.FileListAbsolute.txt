@@ -1,0 +1,15 @@
+D:\Hk1nam3\DALT.NET\QLYGiayDep\QLYGiayDep\obj\Debug\QLYGiayDep.csproj.AssemblyReference.cache
+D:\Hk1nam3\DALT.NET\QLYGiayDep\QLYGiayDep\obj\Debug\QLYGiayDep.Dangnhap.resources
+D:\Hk1nam3\DALT.NET\QLYGiayDep\QLYGiayDep\obj\Debug\QLYGiayDep.Properties.Resources.resources
+D:\Hk1nam3\DALT.NET\QLYGiayDep\QLYGiayDep\obj\Debug\QLYGiayDep.csproj.GenerateResource.cache
+D:\Hk1nam3\DALT.NET\QLYGiayDep\QLYGiayDep\obj\Debug\QLYGiayDep.csproj.CoreCompileInputs.cache
+D:\Hk1nam3\DALT.NET\QLYGiayDep\QLYGiayDep\bin\Debug\QLYGiayDep.exe.config
+D:\Hk1nam3\DALT.NET\QLYGiayDep\QLYGiayDep\bin\Debug\QLYGiayDep.exe
+D:\Hk1nam3\DALT.NET\QLYGiayDep\QLYGiayDep\bin\Debug\QLYGiayDep.pdb
+D:\Hk1nam3\DALT.NET\QLYGiayDep\QLYGiayDep\obj\Debug\QLYGiayDep.exe
+D:\Hk1nam3\DALT.NET\QLYGiayDep\QLYGiayDep\obj\Debug\QLYGiayDep.pdb
+D:\Hk1nam3\DALT.NET\QLYGiayDep\QLYGiayDep\obj\Debug\QLYGiayDep.HeThongQL.resources
+D:\Hk1nam3\DALT.NET\QLYGiayDep\QLYGiayDep\obj\Debug\QLYGiayDep.QlyNV.resources
+D:\Hk1nam3\DALT.NET\QLYGiayDep\QLYGiayDep\obj\Debug\QLYGiayDep.QLyNCC.resources
+D:\Hk1nam3\DALT.NET\QLYGiayDep\QLYGiayDep\obj\Debug\QLYGiayDep.QLyHoaDon.resources
+D:\Hk1nam3\DALT.NET\QLYGiayDep\QLYGiayDep\obj\Debug\QLYGiayDep.QLyPhieuNhap.resources
